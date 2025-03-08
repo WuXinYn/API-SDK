@@ -1,9 +1,8 @@
 # API-SDK
 sdk工具包
 
-<dependency>
-    <groupId>com.wxy.api</groupId>
-    <artifactId>api-client-sdk</artifactId>
-    <version>1.0.0</version>
-</dependency>
+groupId：com.wxy.api
+artifactId：api-client-sdk
+version：1.0.0
+
 
