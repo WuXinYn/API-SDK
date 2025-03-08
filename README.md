@@ -1,6 +1,7 @@
 # API-SDK
 sdk工具包
 
+# dependency
 <dependency>
   
     <groupId>com.wxy.api</groupId>
